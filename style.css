@@ -1,0 +1,23 @@
+/* * {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+} */
+.ph-bg-color {
+  background-color: #264653;
+}
+.ph-btn-color {
+  background: #e76f51;
+}
+
+.ph-text-color {
+  color: #e76f51;
+}
+
+.ph-gray {
+  filter: grayscale(100%);
+}
+
+.ph-user-link {
+  text-decoration: none;
+}
